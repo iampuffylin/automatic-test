@@ -1,0 +1,97 @@
+2022/09/20 16:20:06	Login	SUCCESS	OK
+【ScriptLoginHomeLikeboardShop Start】
+2022/09/20 16:20:06	setting:TEST;email;xxx@gmail.com
+2022/09/20 16:20:06	Start	SUCCESS	OK
+2022/09/20 16:20:07	Loading	SUCCESS	OK
+2022/09/20 16:20:08	Home loaded	SUCCESS	OK
+2022/09/20 16:20:10	Loading	SUCCESS	OK
+2022/09/20 16:20:10	Likeboard loaded	SUCCESS	OK
+2022/09/20 16:20:11	Loading	SUCCESS	OK
+2022/09/20 16:20:11	Shop loaded	SUCCESS	OK
+2022/09/20 16:20:11	Done	SUCCESS	OK
+***** costs: 5.044158935546875 seconds *****
+【ScriptLoginHomeLikeboardShop End】
+【ScriptLoginHomeLikeboardShop Start】
+2022/09/20 16:20:11	setting:TEST;email;xxx@gmail.com
+2022/09/20 16:20:11	Start	SUCCESS	OK
+2022/09/20 16:20:12	Loading	SUCCESS	OK
+2022/09/20 16:20:13	Home loaded	SUCCESS	OK
+2022/09/20 16:20:15	Loading	SUCCESS	OK
+2022/09/20 16:20:15	Likeboard loaded	SUCCESS	OK
+2022/09/20 16:20:16	Loading	SUCCESS	OK
+2022/09/20 16:20:16	Shop loaded	SUCCESS	OK
+2022/09/20 16:20:16	Done	SUCCESS	OK
+***** costs: 4.83851432800293 seconds *****
+【ScriptLoginHomeLikeboardShop End】
+【ScriptLoginHomeLikeboardShop Start】
+2022/09/20 16:20:16	setting:TEST;email;xxx@gmail.com
+2022/09/20 16:20:16	Start	SUCCESS	OK
+2022/09/20 16:20:17	Loading	SUCCESS	OK
+2022/09/20 16:20:17	Home loaded	SUCCESS	OK
+2022/09/20 16:20:19	Loading	SUCCESS	OK
+2022/09/20 16:20:19	Likeboard loaded	SUCCESS	OK
+2022/09/20 16:20:21	Loading	SUCCESS	OK
+2022/09/20 16:20:21	Shop loaded	SUCCESS	OK
+2022/09/20 16:20:21	Done	SUCCESS	OK
+***** costs: 5.013817071914673 seconds *****
+【ScriptLoginHomeLikeboardShop End】
+【ScriptLoginHomeLikeboardShop Start】
+2022/09/20 16:20:21	setting:TEST;email;xxx@gmail.com
+2022/09/20 16:20:21	Start	SUCCESS	OK
+2022/09/20 16:20:22	Loading	SUCCESS	OK
+2022/09/20 16:20:23	Home loaded	SUCCESS	OK
+2022/09/20 16:20:24	Loading	SUCCESS	OK
+2022/09/20 16:20:24	Likeboard loaded	SUCCESS	OK
+2022/09/20 16:20:26	Loading	SUCCESS	OK
+2022/09/20 16:20:26	Shop loaded	SUCCESS	OK
+2022/09/20 16:20:26	Done	SUCCESS	OK
+***** costs: 4.906515121459961 seconds *****
+【ScriptLoginHomeLikeboardShop End】
+【ScriptLoginHomeLikeboardShop Start】
+2022/09/20 16:20:26	setting:TEST;email;xxx@gmail.com
+2022/09/20 16:20:26	Start	SUCCESS	OK
+2022/09/20 16:20:27	Loading	SUCCESS	OK
+2022/09/20 16:20:27	Home loaded	SUCCESS	OK
+2022/09/20 16:20:30	Loading	SUCCESS	OK
+2022/09/20 16:20:30	Likeboard loaded	SUCCESS	OK
+2022/09/20 16:20:31	Loading	SUCCESS	OK
+2022/09/20 16:20:31	Shop loaded	SUCCESS	OK
+2022/09/20 16:20:31	Done	SUCCESS	OK
+***** costs: 5.58021092414856 seconds *****
+【ScriptLoginHomeLikeboardShop End】
+【ScriptLoginHomeLikeboardShop Start】
+2022/09/20 16:20:31	setting:TEST;email;xxx@gmail.com
+2022/09/20 16:20:31	Start	SUCCESS	OK
+2022/09/20 16:20:32	Loading	SUCCESS	OK
+2022/09/20 16:20:33	Home loaded	SUCCESS	OK
+2022/09/20 16:20:35	Loading	SUCCESS	OK
+2022/09/20 16:20:35	Likeboard loaded	SUCCESS	OK
+2022/09/20 16:20:37	Loading	SUCCESS	OK
+2022/09/20 16:20:37	Shop loaded	SUCCESS	OK
+2022/09/20 16:20:37	Done	SUCCESS	OK
+***** costs: 5.755017995834351 seconds *****
+【ScriptLoginHomeLikeboardShop End】
+【ScriptLoginHomeLikeboardShop Start】
+2022/09/20 16:20:37	setting:TEST;email;xxx@gmail.com
+2022/09/20 16:20:37	Start	SUCCESS	OK
+2022/09/20 16:20:39	Loading	SUCCESS	OK
+2022/09/20 16:20:39	Home loaded	SUCCESS	OK
+2022/09/20 16:20:41	Loading	SUCCESS	OK
+2022/09/20 16:20:41	Likeboard loaded	SUCCESS	OK
+2022/09/20 16:20:43	Loading	SUCCESS	OK
+2022/09/20 16:20:43	Shop loaded	SUCCESS	OK
+2022/09/20 16:20:43	Done	SUCCESS	OK
+***** costs: 5.722525119781494 seconds *****
+【ScriptLoginHomeLikeboardShop End】
+【ScriptLoginHomeLikeboardShop Start】
+2022/09/20 16:20:43	setting:TEST;email;xxx@gmail.com
+2022/09/20 16:20:43	Start	SUCCESS	OK
+2022/09/20 16:20:44	Loading	SUCCESS	OK
+2022/09/20 16:20:44	Home loaded	SUCCESS	OK
+2022/09/20 16:20:46	Loading	SUCCESS	OK
+2022/09/20 16:20:46	Likeboard loaded	SUCCESS	OK
+2022/09/20 16:20:47	Loading	SUCCESS	OK
+2022/09/20 16:20:47	Shop loaded	SUCCESS	OK
+2022/09/20 16:20:47	Done	SUCCESS	OK
+***** costs: 4.225259065628052 seconds *****
+【ScriptLoginHomeLikeboardShop End】
